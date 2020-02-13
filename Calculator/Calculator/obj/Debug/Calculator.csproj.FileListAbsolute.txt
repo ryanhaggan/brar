@@ -1,0 +1,10 @@
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\bin\Debug\Calculator.exe
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.exe
+\\b-c1-fc2.serc.ac.uk\Users2\Students\H\HAG40069695\level 3\unit 4 programming\Visual Studio Work\Calculator\Calculator\obj\Debug\Calculator.pdb
